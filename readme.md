@@ -1,7 +1,22 @@
+#### first we need to install
+
+```javascript
+yarn add express @types/express @types/node typescript nodemon -D
+
+```
+
+#### this is for run two terminal to properly visualize my coding actvites
+
 #### to keep update the js from ts
 
 ```javascript
 tsc - w;
+```
+
+#### to keep update nodemon use
+
+```javascript
+yarn start:dev
 ```
 
 #### params
